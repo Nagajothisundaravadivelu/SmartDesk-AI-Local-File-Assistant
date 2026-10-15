@@ -1,3 +1,4 @@
+
 # SmartDesk AI
 
 SmartDesk AI is a native Windows desktop assistant that lets office employees load TXT or PDF documents, ask questions locally through Ollama, and save chat conversations as UTF-8 text files.
@@ -67,3 +68,5 @@ SmartDesk AI is a native Windows desktop assistant that lets office employees lo
 ## Privacy
 
 This application processes document content locally through Ollama. It does not upload documents or conversations to cloud APIs.
+# SmartDesk-AI-Local-File-Assistant
+
